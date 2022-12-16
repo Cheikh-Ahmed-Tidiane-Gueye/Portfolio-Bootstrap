@@ -1,0 +1,53 @@
+*{
+    font-family: "Century Gothic";
+    /* font-family: "Segoe UI", Arial, sans-serif; */
+}
+.reseaux{
+    width: 40px;
+    height: 35px;
+    border-radius: 100px;
+}
+.C,.G{
+    width: 20px;
+    height: 25px;
+    border-radius: 100px;
+}
+.code{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    background-image: url("code.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.progress{
+    width: 100%;
+}
+.card-body{
+    height: 230px;
+}
+.card{
+    height: 50px;
+}
+.card-img-top{
+    height: 200px;
+}
+.btn-success a{
+    color: white;
+    text-decoration: none;
+}
+.btn-success a:hover{
+    color: white;
+    text-decoration: none;
+}
+.img_contact{
+    /* display: flex; */
+    width: 100%;
+    height: 100%;
+    background-image: url("images/img (4).jpg");
+    /* background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; */
+    object-fit: cover;
+}
